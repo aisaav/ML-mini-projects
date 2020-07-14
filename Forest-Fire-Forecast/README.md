@@ -9,3 +9,7 @@ Machine Learning Solution
 * Module5.py : contains my implementation of Kfold & test-train split data segregation techniques from the course's module 
 5 demo
 * Module6.py : contains my implementation of linear regression solution from course's module 6 demo
+
+### References
+* [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
+* [Scikit-learn API Reference](https://scikit-learn.org/stable/modules/classes.html)
