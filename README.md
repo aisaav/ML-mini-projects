@@ -3,7 +3,7 @@
 |Directory|Description |
 |----|-----------|
 |Jupyter-Notebooks|Compilation of mini implementations of ML algorithms for learning purposes|
-|Forest-Fire-Forecast|Mini Project for basic Linear Regression Implementation for predicting forest fires|
+|Forest-Fire-Forecast|Mini Project for implementing first steps of ML Pipeline: data preprocessing, data segregation, algorithm selection and evaluation. Uses Forest Fire dataset.|
 
 ## Purpose
 The purpose of this repository is to be a reference point for those starting to learn ML - within directories projects reference resources and are well documented. 
