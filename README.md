@@ -4,6 +4,8 @@
 |----|-----------|
 |Jupyter-Notebooks|Compilation of mini implementations of ML algorithms for learning purposes|
 |Forest-Fire-Forecast|Mini Project for implementing first steps of ML Pipeline: data preprocessing, data segregation, algorithm selection and evaluation. Uses Forest Fire dataset.|
+|Deriving Features| Directory with multiple notebooks on feature engineering basics for numerical and categorical features- goes more in depth of the ML pipeline step for data preparation & feature engineering|
+
 
 ## Purpose
 The purpose of this repository is to be a reference point for those starting to learn ML - within directories projects reference resources and are well documented. 
@@ -12,3 +14,4 @@ The purpose of this repository is to be a reference point for those starting to 
 * [Pluralsight courses](https://app.pluralsight.com)
 * [Anaconda](https://www.anaconda.com)
 * [Pycharm with Anaconda Plugin](https://www.jetbrains.com/pycharm/promo/anaconda)
+* Jupyter Notebooks : [docs](https://jupyter-notebook.readthedocs.io/en/stable/)
