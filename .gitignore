@@ -1,4 +1,5 @@
 .DS_store
 Forest-Fire-Forecast/.idea
 Forest-Fire-Forecast/venv
+.ipynb_checkpoints/
 
