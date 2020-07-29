@@ -1,0 +1,950 @@
+age, workclass, education, occupation, race, sex, hours-per-week, income
+39, State-gov, Bachelors, Adm-clerical, White, Male,40,<=50K
+50, Self-emp-not-inc, Bachelors, Exec-managerial, White, Male,13,<=50K
+38, Private, HS-grad, Handlers-cleaners, White, Male,40,<=50K
+53, Private,11th, Handlers-cleaners, Black, Male,40,<=50K
+28, Private, Bachelors, Prof-specialty, Black, Female,40,<=50K
+37, Private, Masters, Exec-managerial, White, Female,40,<=50K
+49, Private,9th, Other-service, Black, Female,16,<=50K
+52, Self-emp-not-inc, HS-grad, Exec-managerial, White, Male,45,>50K
+31, Private, Masters, Prof-specialty, White, Female,50,>50K
+42, Private, Bachelors, Exec-managerial, White, Male,40,>50K
+37, Private, Some-college, Exec-managerial, Black, Male,80,>50K
+30, State-gov, Bachelors, Prof-specialty, Asian-Pac-Islander, Male,40,>50K
+23, Private, Bachelors, Adm-clerical, White, Female,30,<=50K
+32, Private, Assoc-acdm, Sales, Black, Male,50,<=50K
+40, Private, Assoc-voc, Craft-repair, Asian-Pac-Islander, Male,40,>50K
+34, Private,7th-8th, Transport-moving, Amer-Indian-Eskimo, Male,45,<=50K
+25, Self-emp-not-inc, HS-grad, Farming-fishing, White, Male,35,<=50K
+32, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+38, Private,11th, Sales, White, Male,50,<=50K
+43, Self-emp-not-inc, Masters, Exec-managerial, White, Female,45,>50K
+40, Private, Doctorate, Prof-specialty, White, Male,60,>50K
+54, Private, HS-grad, Other-service, Black, Female,20,<=50K
+35, Federal-gov,9th, Farming-fishing, Black, Male,40,<=50K
+43, Private,11th, Transport-moving, White, Male,40,<=50K
+59, Private, HS-grad, Tech-support, White, Female,40,<=50K
+56, Local-gov, Bachelors, Tech-support, White, Male,40,>50K
+19, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+54, Private, Some-college, Tech-support, Asian-Pac-Islander, Male,60,>50K
+39, Private, HS-grad, Exec-managerial, White, Male,80,<=50K
+49, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+23, Local-gov, Assoc-acdm, Protective-serv, White, Male,52,<=50K
+20, Private, Some-college, Sales, Black, Male,44,<=50K
+45, Private, Bachelors, Exec-managerial, White, Male,40,<=50K
+30, Federal-gov, Some-college, Adm-clerical, White, Male,40,<=50K
+22, State-gov, Some-college, Other-service, Black, Male,15,<=50K
+48, Private,11th, Machine-op-inspct, White, Male,40,<=50K
+21, Private, Some-college, Machine-op-inspct, White, Male,40,<=50K
+19, Private, HS-grad, Adm-clerical, White, Female,25,<=50K
+31, Private, Some-college, Sales, White, Male,38,>50K
+48, Self-emp-not-inc, Assoc-acdm, Prof-specialty, White, Male,40,<=50K
+31, Private,9th, Machine-op-inspct, White, Male,43,<=50K
+53, Self-emp-not-inc, Bachelors, Prof-specialty, White, Male,40,<=50K
+24, Private, Bachelors, Tech-support, White, Male,50,<=50K
+49, Private, HS-grad, Adm-clerical, White, Female,40,<=50K
+25, Private, HS-grad, Handlers-cleaners, White, Male,35,<=50K
+57, Federal-gov, Bachelors, Prof-specialty, Black, Male,40,>50K
+53, Private, HS-grad, Machine-op-inspct, White, Male,38,<=50K
+44, Private, Masters, Exec-managerial, White, Female,40,<=50K
+41, State-gov, Assoc-voc, Craft-repair, White, Male,40,<=50K
+29, Private, Assoc-voc, Prof-specialty, White, Male,43,<=50K
+25, Private, Some-college, Exec-managerial, Other, Female,40,<=50K
+18, Private, HS-grad, Other-service, White, Female,30,<=50K
+47, Private, Prof-school, Prof-specialty, White, Female,60,>50K
+50, Federal-gov, Bachelors, Exec-managerial, White, Male,55,>50K
+47, Self-emp-inc, HS-grad, Exec-managerial, White, Male,60,<=50K
+43, Private, Some-college, Tech-support, White, Male,40,>50K
+46, Private,5th-6th, Machine-op-inspct, White, Male,40,<=50K
+35, Private, Assoc-voc, Other-service, White, Male,40,<=50K
+41, Private, HS-grad, Adm-clerical, White, Male,48,<=50K
+30, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+30, Private, Bachelors, Private, White, Male,40,<=50K
+32, Private,7th-8th, Private, White, Male,40,<=50K
+48, Private, HS-grad, Transport-moving, White, Male,40,<=50K
+42, Private, Doctorate, Prof-specialty, White, Male,45,>50K
+29, Private, Some-college, Tech-support, White, Male,58,<=50K
+36, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+28, Private, Some-college, Adm-clerical, White, Female,40,<=50K
+53, Private, HS-grad, Adm-clerical, White, Female,40,>50K
+49, Self-emp-inc, Some-college, Exec-managerial, White, Male,50,>50K
+25, Private, Some-college, Exec-managerial, White, Male,40,<=50K
+19, Private, Some-college, Prof-specialty, White, Male,32,<=50K
+31, Private, Bachelors, Sales, Black, Female,40,<=50K
+29, Self-emp-not-inc, Bachelors, Sales, White, Male,70,>50K
+23, Private, Some-college, Machine-op-inspct, White, Male,40,<=50K
+79, Private, Some-college, Prof-specialty, White, Male,20,<=50K
+27, Private, HS-grad, Other-service, White, Male,40,<=50K
+40, Private, Assoc-acdm, Adm-clerical, White, Male,40,<=50K
+67, Private,10th, Other-service, White, Male,2,<=50K
+18, Private,11th, Other-service, White, Female,22,<=50K
+31, Local-gov,7th-8th, Farming-fishing, White, Male,40,<=50K
+18, Private, HS-grad, Sales, White, Male,30,<=50K
+52, Private, Bachelors, Other-service, White, Male,40,<=50K
+46, Private, HS-grad, Other-service, White, Female,40,<=50K
+59, Private, HS-grad, Sales, White, Male,48,<=50K
+44, Private, HS-grad, Craft-repair, White, Female,40,>50K
+53, Private, HS-grad, Sales, White, Female,35,<=50K
+49, Local-gov, HS-grad, Protective-serv, White, Male,40,>50K
+33, Private, Masters, Prof-specialty, White, Male,50,<=50K
+30, Private,9th, Sales, White, Male,40,<=50K
+43, Federal-gov, Doctorate, Prof-specialty, White, Female,50,>50K
+57, Private, Assoc-voc, Prof-specialty, White, Male,40,<=50K
+37, Private, Some-college, Craft-repair, White, Female,40,<=50K
+28, Private, Some-college, Machine-op-inspct, Black, Female,25,<=50K
+30, Private, HS-grad, Sales, Asian-Pac-Islander, Female,35,<=50K
+34, Local-gov, Bachelors, Protective-serv, White, Male,40,>50K
+29, Local-gov, Some-college, Handlers-cleaners, White, Male,50,<=50K
+48, Self-emp-not-inc, Doctorate, Prof-specialty, White, Male,60,>50K
+37, Private, Some-college, Sales, White, Male,48,>50K
+48, Private, Assoc-acdm, Exec-managerial, White, Female,40,<=50K
+32, Federal-gov, HS-grad, Other-service, Black, Male,40,<=50K
+76, Private, Masters, Exec-managerial, White, Male,40,>50K
+44, Private, Bachelors, Exec-managerial, White, Male,60,>50K
+47, Self-emp-not-inc, Masters, Prof-specialty, White, Female,50,<=50K
+20, Private, Some-college, Tech-support, White, Female,40,<=50K
+29, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+32, Self-emp-inc, HS-grad, Craft-repair, White, Male,40,>50K
+17, Private,10th, Craft-repair, White, Female,32,<=50K
+30, Private,11th, Handlers-cleaners, White, Male,40,<=50K
+31, Local-gov, HS-grad, Adm-clerical, White, Female,40,<=50K
+42, Private, HS-grad, Handlers-cleaners, White, Male,40,<=50K
+24, Private, Bachelors, Sales, White, Male,40,<=50K
+38, Private, Prof-school, Prof-specialty, White, Male,40,>50K
+56, Self-emp-not-inc, HS-grad, Other-service, White, Male,50,>50K
+28, Private, Some-college, Sales, White, Female,25,<=50K
+36, Private, HS-grad, Machine-op-inspct, White, Female,40,<=50K
+53, Private,9th, Handlers-cleaners, White, Male,50,<=50K
+56, Self-emp-inc, Some-college, Sales, White, Male,50,<=50K
+49, Local-gov, Assoc-voc, Craft-repair, Black, Male,40,>50K
+55, Private, Some-college, Sales, White, Male,56,<=50K
+22, Private, HS-grad, Craft-repair, White, Male,41,<=50K
+21, Private, Some-college, Other-service, White, Female,40,<=50K
+40, Private, Bachelors, Exec-managerial, White, Male,60,<=50K
+30, Private, Bachelors, Exec-managerial, Black, Male,40,<=50K
+29, State-gov, Bachelors, Prof-specialty, White, Male,50,>50K
+19, Private, Some-college, Other-service, Black, Male,35,<=50K
+47, Private, Bachelors, Exec-managerial, White, Female,40,>50K
+20, Private, Some-college, Adm-clerical, White, Female,28,<=50K
+31, Private, Assoc-acdm, Adm-clerical, White, Male,40,>50K
+35, Private, HS-grad, Adm-clerical, White, Male,40,<=50K
+39, Private, Some-college, Craft-repair, White, Male,40,<=50K
+28, Private, Assoc-acdm, Sales, White, Female,60,<=50K
+24, Private, HS-grad, Other-service, White, Female,40,<=50K
+38, Self-emp-not-inc, HS-grad, Craft-repair, White, Male,35,<=50K
+37, Private, Bachelors, Sales, White, Male,50,<=50K
+46, Private, Assoc-acdm, Tech-support, Black, Female,36,<=50K
+38, Federal-gov, Masters, Prof-specialty, White, Male,40,>50K
+43, Self-emp-not-inc, HS-grad, Craft-repair, White, Male,60,<=50K
+27, Private, Assoc-voc, Adm-clerical, White, Female,35,<=50K
+20, Private, Some-college, Sales, White, Male,20,<=50K
+49, Private, Some-college, Craft-repair, Asian-Pac-Islander, Male,40,>50K
+61, Self-emp-inc, HS-grad, Craft-repair, White, Male,40,<=50K
+27, Private, Some-college, Sales, White, Female,40,<=50K
+19, Private, Some-college, Other-service, White, Male,30,<=50K
+45, Private, Assoc-voc, Prof-specialty, White, Female,40,>50K
+70, Private, Some-college, Tech-support, White, Male,40,<=50K
+31, Private, HS-grad, Transport-moving, Black, Female,30,<=50K
+22, Private, Some-college, Other-service, White, Male,24,<=50K
+36, Private, HS-grad, Other-service, White, Female,24,<=50K
+64, Private,11th, Craft-repair, White, Male,40,<=50K
+47, Local-gov, Some-college, Adm-clerical, White, Female,38,<=50K
+34, Private, HS-grad, Adm-clerical, White, Female,40,<=50K
+33, Private, Bachelors, Exec-managerial, Asian-Pac-Islander, Female,40,<=50K
+21, Private, HS-grad, Craft-repair, White, Male,35,<=50K
+48, Private, HS-grad, Craft-repair, White, Male,46,<=50K
+23, Private, Bachelors, Handlers-cleaners, White, Male,40,<=50K
+71, Self-emp-not-inc, Some-college, Sales, Black, Male,2,<=50K
+29, Private, HS-grad, Craft-repair, White, Male,60,<=50K
+42, Private, Bachelors, Other-service, Black, Male,50,<=50K
+25, Private, HS-grad, Other-service, White, Female,40,<=50K
+44, Self-emp-inc, Masters, Exec-managerial, Asian-Pac-Islander, Female,40,<=50K
+28, Private, HS-grad, Exec-managerial, Asian-Pac-Islander, Female,40,<=50K
+45, Self-emp-not-inc, Masters, Sales, White, Male,40,>50K
+36, Private, Some-college, Other-service, White, Female,40,<=50K
+39, Federal-gov, Assoc-acdm, Exec-managerial, White, Male,42,<=50K
+46, State-gov, Masters, Protective-serv, White, Male,40,<=50K
+18, Private,11th, Handlers-cleaners, White, Male,16,<=50K
+66, Local-gov, Assoc-voc, Prof-specialty, White, Female,20,<=50K
+27, Private, HS-grad, Other-service, White, Male,40,<=50K
+28, State-gov, HS-grad, Protective-serv, White, Male,40,<=50K
+51, Private, Some-college, Sales, White, Male,40,>50K
+27, Private, Bachelors, Craft-repair, White, Male,50,<=50K
+28, State-gov, Bachelors, Prof-specialty, White, Male,40,>50K
+27, Private, HS-grad, Sales, White, Female,25,<=50K
+21, Private, HS-grad, Craft-repair, Black, Male,40,<=50K
+34, Private, HS-grad, Handlers-cleaners, Black, Male,40,<=50K
+18, Private, HS-grad, Other-service, White, Male,12,<=50K
+33, Private, Bachelors, Prof-specialty, White, Male,65,<=50K
+44, Local-gov, Some-college, Exec-managerial, Black, Male,38,>50K
+43, Private, Some-college, Adm-clerical, White, Female,40,<=50K
+30, Private, Some-college, Craft-repair, Black, Male,45,<=50K
+40, Private,7th-8th, Machine-op-inspct, White, Male,40,>50K
+37, Federal-gov, Some-college, Adm-clerical, White, Male,42,>50K
+34, Private, HS-grad, Adm-clerical, Black, Male,40,<=50K
+41, Self-emp-not-inc, Bachelors, Exec-managerial, White, Female,40,<=50K
+31, Private, Masters, Prof-specialty, White, Female,50,<=50K
+58, State-gov, Doctorate, Prof-specialty, White, Male,1,>50K
+38, Private, Some-college, Machine-op-inspct, Black, Female,28,<=50K
+24, Private, Some-college, Machine-op-inspct, White, Male,40,<=50K
+41, Local-gov, Bachelors, Craft-repair, Black, Male,40,<=50K
+47, Private, Some-college, Tech-support, White, Male,45,<=50K
+41, Federal-gov, Bachelors, Tech-support, White, Male,24,<=50K
+23, Private,5th-6th, Transport-moving, White, Male,40,<=50K
+36, Private, Some-college, Craft-repair, White, Male,40,<=50K
+40, Federal-gov, Masters, Exec-managerial, White, Female,55,>50K
+35, Private, Masters, Prof-specialty, White, Male,40,>50K
+24, Self-emp-not-inc, HS-grad, Sales, White, Male,40,<=50K
+26, Private, Masters, Prof-specialty, White, Female,40,<=50K
+51, Private, Bachelors, Exec-managerial, White, Male,50,>50K
+42, Local-gov, Some-college, Prof-specialty, White, Female,40,<=50K
+37, State-gov, HS-grad, Adm-clerical, White, Female,35,<=50K
+18, Private,11th, Sales, White, Female,40,<=50K
+36, Private, Bachelors, Other-service, Black, Male,36,>50K
+35, Private, HS-grad, Craft-repair, White, Male,60,<=50K
+58, Self-emp-inc, HS-grad, Sales, White, Female,35,>50K
+17, Private,11th, Sales, White, Female,12,<=50K
+44, Local-gov, HS-grad, Transport-moving, Black, Male,40,<=50K
+37, Private, HS-grad, Craft-repair, White, Male,40,>50K
+35, Private, Some-college, Sales, Amer-Indian-Eskimo, Female,40,<=50K
+60, Private, HS-grad, Craft-repair, Asian-Pac-Islander, Male,40,<=50K
+54, Self-emp-inc,7th-8th, Machine-op-inspct, White, Male,40,>50K
+37, Private, Bachelors, Exec-managerial, Black, Male,60,>50K
+50, Private, Assoc-acdm, Sales, White, Female,40,<=50K
+38, Private, Bachelors, Sales, White, Male,50,<=50K
+45, Private, Bachelors, Prof-specialty, White, Male,55,<=50K
+25, Private,10th, Craft-repair, White, Male,40,<=50K
+31, Private, Some-college, Handlers-cleaners, White, Male,40,<=50K
+64, ?,1st-4th, ?, White, Male,40,<=50K
+90, Private, HS-grad, Other-service, Black, Male,40,<=50K
+54, Private, HS-grad, Adm-clerical, Black, Male,20,<=50K
+53, Local-gov, Preschool, Machine-op-inspct, White, Female,35,<=50K
+18, Private, HS-grad, Sales, White, Female,40,<=50K
+66, Self-emp-not-inc, HS-grad, Farming-fishing, White, Male,50,<=50K
+75, Private, Assoc-voc, Adm-clerical, White, Female,20,<=50K
+65, Private, HS-grad, Adm-clerical, White, Female,40,<=50K
+35, Private,11th, Transport-moving, Black, Male,40,<=50K
+41, Private, HS-grad, Sales, Black, Female,38,<=50K
+25, Private, Some-college, Adm-clerical, White, Male,42,<=50K
+33, Private, Some-college, Craft-repair, Other, Female,40,<=50K
+28, Private, Prof-school, Prof-specialty, White, Male,55,>50K
+59, State-gov, HS-grad, Other-service, White, Male,40,<=50K
+40, State-gov, Some-college, Adm-clerical, White, Female,38,<=50K
+41, Private, Bachelors, Exec-managerial, White, Male,50,>50K
+38, Local-gov, Masters, Exec-managerial, White, Male,70,>50K
+23, Private, HS-grad, Transport-moving, White, Male,40,<=50K
+40, Private, Bachelors, Prof-specialty, White, Male,40,>50K
+41, Self-emp-not-inc, HS-grad, Other-service, White, Female,20,<=50K
+24, State-gov, Assoc-acdm, Protective-serv, White, Male,50,<=50K
+38, Private, Some-college, Craft-repair, White, Male,40,<=50K
+56, Private, HS-grad, Adm-clerical, White, Male,35,<=50K
+58, Private, HS-grad, Adm-clerical, White, Male,45,>50K
+32, Private, HS-grad, Other-service, White, Female,34,<=50K
+40, Private, Assoc-acdm, Tech-support, White, Male,60,>50K
+45, Private, HS-grad, Adm-clerical, White, Male,40,<=50K
+41, Private, Prof-school, Prof-specialty, White, Female,40,>50K
+42, Private, Bachelors, Adm-clerical, Black, Female,40,<=50K
+59, Local-gov,10th, Other-service, Black, Female,30,<=50K
+19, Local-gov, Some-college, Adm-clerical, White, Male,40,<=50K
+58, Private, Some-college, Transport-moving, White, Male,20,<=50K
+42, Self-emp-not-inc, HS-grad, Farming-fishing, Asian-Pac-Islander, Male,40,>50K
+20, Private, HS-grad, Other-service, White, Female,40,<=50K
+32, Private, HS-grad, Other-service, White, Female,30,<=50K
+45, Private, Assoc-voc, Exec-managerial, White, Female,45,<=50K
+50, Private,7th-8th, Craft-repair, White, Male,40,<=50K
+36, Private, Bachelors, Prof-specialty, White, Female,40,<=50K
+45, Private, HS-grad, Sales, White, Male,60,<=50K
+17, Private,11th, Other-service, White, Male,12,<=50K
+59, Private, Some-college, Sales, White, Male,40,<=50K
+26, Private,11th, Craft-repair, White, Male,40,<=50K
+37, Self-emp-inc, Some-college, Exec-managerial, Asian-Pac-Islander, Male,75,>50K
+64, Private, HS-grad, Exec-managerial, White, Male,40,>50K
+33, Private, Bachelors, Prof-specialty, White, Female,45,<=50K
+33, Private, HS-grad, Craft-repair, White, Female,40,>50K
+61, Private, HS-grad, Exec-managerial, White, Male,40,>50K
+17, Private,9th, Other-service, White, Male,24,<=50K
+50, Self-emp-not-inc, Masters, Farming-fishing, White, Male,98,<=50K
+27, Local-gov, Masters, Prof-specialty, White, Male,35,<=50K
+30, Private, HS-grad, Prof-specialty, White, Female,40,<=50K
+43, Private, HS-grad, Handlers-cleaners, Black, Male,40,<=50K
+44, Private, Some-college, Craft-repair, White, Male,40,>50K
+35, Private, Some-college, Exec-managerial, White, Female,40,<=50K
+25, Private, Some-college, Tech-support, White, Female,40,<=50K
+24, Private, Some-college, Machine-op-inspct, White, Female,48,>50K
+22, Private, Bachelors, Prof-specialty, White, Female,15,<=50K
+42, Local-gov, Some-college, Craft-repair, White, Male,40,>50K
+34, Private, Assoc-acdm, Sales, Black, Female,45,<=50K
+60, Private, Bachelors, Prof-specialty, White, Female,42,<=50K
+21, Private, HS-grad, Handlers-cleaners, White, Male,40,<=50K
+57, Federal-gov, Masters, Sales, White, Male,40,>50K
+41, Private, Prof-school, Prof-specialty, White, Male,60,>50K
+50, Private, Some-college, Other-service, White, Male,45,<=50K
+25, Private, Bachelors, Exec-managerial, White, Female,40,<=50K
+50, Private,7th-8th, Craft-repair, White, Male,40,<=50K
+36, Private, Bachelors, Prof-specialty, White, Male,45,<=50K
+31, Private, HS-grad, Prof-specialty, White, Female,40,<=50K
+29, Local-gov, Bachelors, Protective-serv, White, Male,56,<=50K
+21, Private, Some-college, Sales, White, Male,45,<=50K
+27, Private, Bachelors, Tech-support, Black, Female,40,<=50K
+65, Private, HS-grad, Transport-moving, White, Male,16,<=50K
+37, Self-emp-inc, Bachelors, Sales, White, Female,60,<=50K
+24, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+38, Private, HS-grad, Sales, White, Male,80,<=50K
+48, Private, Bachelors, Adm-clerical, White, Male,40,>50K
+21, Private, Some-college, Other-service, Asian-Pac-Islander, Female,25,<=50K
+31, Private, HS-grad, Transport-moving, White, Male,45,>50K
+55, Private, HS-grad, Sales, White, Male,40,>50K
+24, Private, Some-college, Adm-clerical, Asian-Pac-Islander, Female,40,<=50K
+43, Private, HS-grad, Adm-clerical, White, Female,40,<=50K
+26, Private, Assoc-acdm, Tech-support, White, Male,45,<=50K
+46, Private, Assoc-acdm, Prof-specialty, White, Female,33,<=50K
+35, Private, Assoc-acdm, Adm-clerical, White, Male,40,>50K
+41, Self-emp-inc, Some-college, Farming-fishing, White, Male,54,>50K
+26, Private, Bachelors, Sales, White, Male,40,<=50K
+34, Private, Masters, Exec-managerial, Asian-Pac-Islander, Male,35,>50K
+36, Self-emp-not-inc, Bachelors, Prof-specialty, Black, Female,40,>50K
+22, Private, Some-college, Sales, White, Male,15,<=50K
+24, Private, Some-college, Machine-op-inspct, White, Male,40,<=50K
+77, Self-emp-not-inc, Some-college, Sales, White, Male,40,<=50K
+22, Private,5th-6th, Machine-op-inspct, White, Female,40,<=50K
+29, Private, Some-college, Tech-support, White, Female,40,<=50K
+62, Private, HS-grad, Other-service, White, Female,24,<=50K
+39, Self-emp-not-inc, HS-grad, Exec-managerial, White, Male,40,<=50K
+43, Private, Some-college, Craft-repair, White, Male,50,<=50K
+35, Private, HS-grad, Transport-moving, White, Male,45,<=50K
+29, Private,11th, Exec-managerial, White, Female,40,<=50K
+76, Self-emp-not-inc, Masters, Craft-repair, White, Male,10,<=50K
+63, Self-emp-not-inc, HS-grad, Farming-fishing, White, Male,45,<=50K
+43, Private, Some-college, Prof-specialty, White, Female,50,>50K
+58, Self-emp-not-inc, HS-grad, Handlers-cleaners, White, Male,40,<=50K
+66, Private, HS-grad, Transport-moving, White, Male,55,<=50K
+41, Private, Some-college, Craft-repair, Black, Male,45,<=50K
+26, Private, Bachelors, Adm-clerical, White, Male,40,<=50K
+47, Private, Assoc-voc, Other-service, White, Male,40,<=50K
+55, Local-gov,10th, Adm-clerical, White, Male,40,<=50K
+53, Private, HS-grad, Transport-moving, White, Male,40,<=50K
+17, Private,5th-6th, Other-service, White, Male,48,<=50K
+30, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+49, Private, Masters, Prof-specialty, White, Male,60,<=50K
+19, Private, HS-grad, Sales, Black, Male,30,<=50K
+45, Private, HS-grad, Other-service, Black, Male,40,<=50K
+26, Private, Assoc-acdm, Sales, White, Male,40,<=50K
+38, Private, Assoc-voc, Craft-repair, White, Male,40,>50K
+36, State-gov, HS-grad, Protective-serv, White, Male,40,>50K
+33, Private, HS-grad, Farming-fishing, White, Male,20,<=50K
+22, State-gov, Some-college, Protective-serv, Black, Female,40,<=50K
+43, Self-emp-not-inc, Bachelors, Sales, White, Male,42,<=50K
+56, Private, Assoc-acdm, Other-service, White, Male,25,<=50K
+31, Private, Bachelors, Prof-specialty, White, Male,25,<=50K
+33, Private, Bachelors, Exec-managerial, White, Male,40,>50K
+26, Private, HS-grad, Other-service, White, Male,40,<=50K
+33, Private, Bachelors, Exec-managerial, White, Male,40,>50K
+46, Local-gov,11th, Transport-moving, White, Male,30,<=50K
+38, Federal-gov, HS-grad, Adm-clerical, White, Male,40,>50K
+65, Private,11th, Other-service, Other, Male,40,<=50K
+40, Private, Assoc-voc, Tech-support, White, Male,40,>50K
+42, Private, HS-grad, Adm-clerical, White, Female,35,<=50K
+26, Self-emp-not-inc,9th, Craft-repair, White, Male,40,<=50K
+36, Private,10th, Other-service, White, Female,24,<=50K
+62, Private, Masters, Prof-specialty, White, Male,40,>50K
+43, Private, Bachelors, Transport-moving, White, Male,45,<=50K
+43, Private, Bachelors, Exec-managerial, White, Male,45,>50K
+22, Private, HS-grad, Sales, White, Male,55,<=50K
+28, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+56, Self-emp-not-inc, Some-college, Sales, White, Male,45,<=50K
+22, Private, Assoc-acdm, Sales, White, Female,15,<=50K
+57, Private, Bachelors, Exec-managerial, White, Female,45,>50K
+39, Private, HS-grad, Sales, White, Female,40,<=50K
+26, Federal-gov, Some-college, Adm-clerical, White, Female,15,<=50K
+17, Private,11th, Other-service, White, Male,10,<=50K
+40, State-gov, Assoc-voc, Machine-op-inspct, White, Male,38,>50K
+45, Private, HS-grad, Machine-op-inspct, Black, Male,40,<=50K
+44, Private, HS-grad, Craft-repair, Black, Male,40,<=50K
+20, Local-gov, Some-college, Adm-clerical, White, Female,10,<=50K
+33, Private, HS-grad, Craft-repair, White, Female,40,<=50K
+23, Private, Some-college, Sales, White, Male,40,<=50K
+46, Self-emp-not-inc, Masters, Exec-managerial, White, Male,30,<=50K
+38, Private, HS-grad, Sales, White, Male,50,<=50K
+54, Private, HS-grad, Transport-moving, White, Male,40,<=50K
+46, Private,5th-6th, Craft-repair, White, Female,45,<=50K
+25, Private, Some-college, Craft-repair, White, Male,40,<=50K
+46, Private, Some-college, Sales, White, Female,40,<=50K
+36, Local-gov, Some-college, Transport-moving, White, Female,40,<=50K
+23, Private, HS-grad, Other-service, White, Female,25,<=50K
+29, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+44, Private, Some-college, Adm-clerical, White, Female,6,>50K
+19, Private, Some-college, Adm-clerical, White, Female,16,<=50K
+19, Private, HS-grad, Other-service, White, Female,40,<=50K
+35, Private, HS-grad, Other-service, White, Female,40,>50K
+27, Private, Bachelors, Craft-repair, White, Male,50,<=50K
+46, Self-emp-not-inc, Assoc-acdm, Craft-repair, White, Male,40,<=50K
+34, State-gov, Bachelors, Exec-managerial, White, Male,45,>50K
+34, Private, HS-grad, Other-service, White, Female,35,<=50K
+44, Private, Some-college, Tech-support, White, Male,40,<=50K
+45, Private, Some-college, Handlers-cleaners, White, Female,40,<=50K
+25, Private, Bachelors, Exec-managerial, White, Male,55,>50K
+52, Self-emp-inc, Bachelors, Exec-managerial, White, Male,50,>50K
+20, Private, Some-college, Handlers-cleaners, White, Male,40,<=50K
+28, Private, Some-college, Other-service, White, Female,40,<=50K
+50, State-gov, Bachelors, Protective-serv, White, Male,40,>50K
+34, Private, Assoc-voc, Tech-support, White, Female,64,<=50K
+28, Private,7th-8th, Handlers-cleaners, Other, Male,40,<=50K
+41, Private, Masters, Exec-managerial, White, Male,65,>50K
+28, Private, HS-grad, Adm-clerical, White, Male,40,<=50K
+46, Self-emp-not-inc, HS-grad, Craft-repair, White, Male,25,<=50K
+32, Private, Some-college, Exec-managerial, White, Male,50,<=50K
+41, Local-gov, Some-college, Other-service, Black, Female,24,<=50K
+24, Private, HS-grad, Handlers-cleaners, Black, Female,40,<=50K
+33, Private, Some-college, Exec-managerial, White, Female,40,<=50K
+46, Private, Doctorate, Exec-managerial, White, Male,60,>50K
+31, State-gov, Some-college, Machine-op-inspct, White, Male,40,<=50K
+35, Private,12th, Craft-repair, White, Male,50,>50K
+52, Private,1st-4th, Machine-op-inspct, White, Male,40,<=50K
+30, Private,11th, Other-service, White, Female,19,<=50K
+34, Local-gov,11th, Machine-op-inspct, Black, Male,40,<=50K
+34, State-gov, HS-grad, Transport-moving, White, Female,40,<=50K
+20, Private, Some-college, Sales, White, Male,30,<=50K
+17, Private,11th, Handlers-cleaners, White, Male,18,<=50K
+32, State-gov, Bachelors, Exec-managerial, White, Female,40,>50K
+29, Private, HS-grad, Farming-fishing, White, Male,40,<=50K
+33, Private,10th, Craft-repair, White, Female,35,<=50K
+25, Private, HS-grad, Transport-moving, White, Male,60,<=50K
+36, Federal-gov, Masters, Prof-specialty, White, Male,40,<=50K
+23, Private, HS-grad, Handlers-cleaners, White, Male,72,<=50K
+63, Self-emp-inc, HS-grad, Exec-managerial, White, Male,40,>50K
+47, Local-gov, Masters, Prof-specialty, White, Male,40,<=50K
+40, Self-emp-not-inc, Bachelors, Prof-specialty, White, Female,40,<=50K
+30, Private, Assoc-acdm, Other-service, White, Female,25,>50K
+27, Private, Some-college, Craft-repair, Asian-Pac-Islander, Male,40,<=50K
+33, Private, Masters, Prof-specialty, White, Male,50,>50K
+34, Local-gov, HS-grad, Farming-fishing, Black, Male,60,<=50K
+34, Local-gov, Some-college, Protective-serv, White, Female,40,<=50K
+23, Private, Some-college, Adm-clerical, White, Male,40,<=50K
+42, Local-gov, Some-college, Adm-clerical, White, Female,40,<=50K
+29, Private, Bachelors, Prof-specialty, White, Male,40,<=50K
+45, Private, HS-grad, Adm-clerical, White, Female,28,<=50K
+24, Federal-gov, HS-grad, Armed-Forces, White, Male,40,<=50K
+44, Private, Some-college, Prof-specialty, White, Male,40,>50K
+27, Private,9th, Craft-repair, White, Male,40,<=50K
+20, Private, Some-college, Sales, White, Male,35,<=50K
+44, Private, HS-grad, Exec-managerial, Black, Female,40,<=50K
+51, Private, HS-grad, Craft-repair, Amer-Indian-Eskimo, Male,40,<=50K
+20, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+19, Private, HS-grad, Machine-op-inspct, Black, Female,40,<=50K
+45, Self-emp-inc, Some-college, Craft-repair, White, Male,55,>50K
+60, Private, HS-grad, Craft-repair, White, Male,40,>50K
+42, Private, Assoc-acdm, Exec-managerial, Black, Male,40,>50K
+44, Self-emp-not-inc, HS-grad, Sales, White, Female,40,>50K
+40, Private, Assoc-voc, Machine-op-inspct, Asian-Pac-Islander, Male,40,>50K
+30, Private, HS-grad, Exec-managerial, White, Female,40,<=50K
+38, Private, Some-college, Transport-moving, Black, Male,50,<=50K
+23, Private, HS-grad, Transport-moving, White, Male,60,<=50K
+44, Private, Assoc-acdm, Farming-fishing, White, Male,40,<=50K
+54, Local-gov, HS-grad, Transport-moving, Black, Male,40,<=50K
+32, Private, Bachelors, Prof-specialty, White, Male,50,<=50K
+50, Private,1st-4th, Craft-repair, White, Male,40,<=50K
+24, Private, Bachelors, Tech-support, White, Female,20,<=50K
+37, Private, HS-grad, Adm-clerical, White, Female,60,<=50K
+52, Private, HS-grad, Transport-moving, White, Male,40,<=50K
+38, Private, Some-college, Transport-moving, White, Male,40,<=50K
+49, Private, Masters, Exec-managerial, White, Male,45,>50K
+30, Private, Bachelors, Tech-support, White, Female,16,>50K
+60, Private, Some-college, Prof-specialty, White, Male,40,>50K
+35, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+30, Private, HS-grad, Transport-moving, White, Male,60,<=50K
+67, Private, Assoc-voc, Other-service, White, Female,24,<=50K
+46, Private, Bachelors, Craft-repair, White, Female,40,<=50K
+17, Private,9th, Other-service, White, Male,6,<=50K
+22, Private, Some-college, Handlers-cleaners, White, Male,30,<=50K
+27, Private,10th, Other-service, White, Male,40,<=50K
+23, Private, HS-grad, Other-service, White, Female,35,<=50K
+33, Private, Assoc-acdm, Craft-repair, White, Male,45,<=50K
+43, Self-emp-not-inc, Some-college, Craft-repair, White, Male,20,<=50K
+28, State-gov, Bachelors, Prof-specialty, White, Male,20,<=50K
+41, Private, HS-grad, Craft-repair, White, Female,40,<=50K
+59, Local-gov, HS-grad, Transport-moving, White, Male,45,<=50K
+45, Local-gov, Bachelors, Prof-specialty, White, Female,40,<=50K
+38, Private, Bachelors, Sales, White, Male,60,>50K
+40, Private, HS-grad, Other-service, White, Female,35,<=50K
+46, Federal-gov, HS-grad, Adm-clerical, White, Male,40,<=50K
+35, Private, Assoc-acdm, Exec-managerial, White, Female,60,<=50K
+34, Private, HS-grad, Prof-specialty, White, Female,25,<=50K
+33, Private, Bachelors, Craft-repair, White, Male,20,<=50K
+41, Private, HS-grad, Adm-clerical, White, Female,36,<=50K
+20, Private, Some-college, Machine-op-inspct, White, Male,40,<=50K
+23, Private,5th-6th, Other-service, White, Male,40,<=50K
+26, Private, Some-college, Prof-specialty, White, Female,35,<=50K
+23, Local-gov, HS-grad, Farming-fishing, White, Male,40,<=50K
+62, Local-gov, HS-grad, Transport-moving, White, Male,40,<=50K
+52, Private, Some-college, Adm-clerical, White, Male,40,<=50K
+58, Private, Some-college, Other-service, White, Female,42,<=50K
+25, Private, Bachelors, Sales, White, Female,40,<=50K
+24, Private, Bachelors, Exec-managerial, Black, Male,40,<=50K
+19, Private, Some-college, Protective-serv, White, Male,8,<=50K
+43, Private, Some-college, Exec-managerial, White, Male,40,<=50K
+47, Local-gov, HS-grad, Adm-clerical, Black, Female,40,<=50K
+39, Private, HS-grad, Other-service, White, Female,40,<=50K
+49, Private, Assoc-voc, Handlers-cleaners, White, Male,42,<=50K
+32, Private, Assoc-voc, Craft-repair, White, Male,45,<=50K
+34, Private, Some-college, Prof-specialty, White, Male,50,>50K
+28, Private, HS-grad, Craft-repair, White, Male,45,<=50K
+25, Private, Some-college, Adm-clerical, Amer-Indian-Eskimo, Female,20,<=50K
+34, Private, Bachelors, Prof-specialty, White, Male,50,>50K
+38, Self-emp-inc, Bachelors, Exec-managerial, White, Male,80,>50K
+50, Private, HS-grad, Exec-managerial, White, Male,50,>50K
+24, Local-gov, Some-college, Handlers-cleaners, Black, Male,50,<=50K
+37, Local-gov, Some-college, Tech-support, White, Male,45,>50K
+44, Private, Some-college, Machine-op-inspct, White, Male,58,>50K
+28, Private, Some-college, Sales, White, Female,40,<=50K
+42, Private, Bachelors, Exec-managerial, White, Male,40,>50K
+74, Private, Some-college, Adm-clerical, White, Female,9,<=50K
+38, Self-emp-not-inc, HS-grad, Craft-repair, White, Male,50,<=50K
+44, Self-emp-not-inc, Masters, Prof-specialty, White, Male,40,<=50K
+44, Private,11th, Machine-op-inspct, Other, Female,46,<=50K
+26, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+36, Private, HS-grad, Other-service, Black, Male,40,<=50K
+41, Private, Assoc-acdm, Exec-managerial, White, Female,50,>50K
+67, Private, Prof-school, Prof-specialty, White, Male,48,>50K
+39, Local-gov,12th, Tech-support, White, Male,50,<=50K
+57, Private,1st-4th, Priv-house-serv, Black, Female,30,<=50K
+29, Private, Assoc-voc, Craft-repair, White, Male,40,<=50K
+31, Self-emp-inc, Bachelors, Farming-fishing, White, Female,45,<=50K
+44, Private, Some-college, Transport-moving, White, Male,40,<=50K
+29, Private, Doctorate, Prof-specialty, White, Male,40,<=50K
+30, Private, Some-college, Handlers-cleaners, White, Female,40,<=50K
+27, Private, HS-grad, Transport-moving, White, Male,40,<=50K
+27, Private, Some-college, Sales, White, Male,50,<=50K
+32, Private, HS-grad, Handlers-cleaners, White, Female,45,<=50K
+58, Private,10th, Other-service, White, Female,8,<=50K
+35, Local-gov, Some-college, Protective-serv, White, Male,40,<=50K
+21, Private, HS-grad, Handlers-cleaners, White, Male,36,<=50K
+28, Private, Some-college, Craft-repair, White, Male,40,<=50K
+46, Self-emp-not-inc, Some-college, Exec-managerial, White, Male,50,<=50K
+36, Self-emp-not-inc, HS-grad, Other-service, White, Female,40,<=50K
+72, Private,11th, Adm-clerical, White, Female,40,<=50K
+35, Private, HS-grad, Machine-op-inspct, Black, Female,40,<=50K
+33, Federal-gov, Assoc-voc, Craft-repair, Black, Female,40,>50K
+69, Private,11th, Machine-op-inspct, White, Female,40,<=50K
+35, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+31, Private, HS-grad, Adm-clerical, White, Female,20,<=50K
+34, Private, HS-grad, Tech-support, White, Female,32,<=50K
+30, Private,11th, Other-service, White, Male,40,<=50K
+28, Private, Bachelors, Transport-moving, White, Male,55,<=50K
+54, Private, Bachelors, Sales, White, Male,35,>50K
+47, Private, Some-college, Prof-specialty, White, Male,50,>50K
+24, Private, HS-grad, Handlers-cleaners, Black, Female,40,<=50K
+52, Self-emp-not-inc, Bachelors, Prof-specialty, White, Male,60,>50K
+20, Private, HS-grad, Handlers-cleaners, Amer-Indian-Eskimo, Male,48,<=50K
+43, Self-emp-inc, Masters, Exec-managerial, White, Male,45,<=50K
+45, Private,7th-8th, Other-service, White, Female,40,<=50K
+29, Self-emp-not-inc, HS-grad, Craft-repair, White, Male,35,<=50K
+47, Private, Masters, Exec-managerial, White, Male,42,<=50K
+24, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+51, Private, HS-grad, Prof-specialty, White, Male,40,<=50K
+17, Private,11th, Sales, White, Male,12,<=50K
+37, Private, Assoc-voc, Craft-repair, White, Male,40,>50K
+27, Private, Doctorate, Prof-specialty, White, Female,70,<=50K
+29, Private, Bachelors, Exec-managerial, White, Male,40,>50K
+36, Self-emp-not-inc, Assoc-acdm, Sales, White, Female,35,<=50K
+58, Local-gov, Bachelors, Prof-specialty, White, Female,40,<=50K
+26, Self-emp-not-inc, Some-college, Craft-repair, White, Male,45,<=50K
+57, Private, HS-grad, Sales, White, Male,40,>50K
+59, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+27, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+31, Self-emp-not-inc, Bachelors, Tech-support, White, Male,40,<=50K
+21, Private, Some-college, Sales, White, Female,24,<=50K
+29, Private, Some-college, Adm-clerical, White, Male,60,<=50K
+18, Private,11th, Other-service, White, Male,40,<=50K
+52, Private,10th, Craft-repair, White, Male,47,>50K
+57, Self-emp-inc, Bachelors, Prof-specialty, White, Male,80,<=50K
+60, Private,7th-8th, Transport-moving, White, Male,48,>50K
+31, Private, Bachelors, Prof-specialty, White, Male,40,>50K
+23, Private, Bachelors, Adm-clerical, White, Female,40,<=50K
+27, Private, HS-grad, Sales, White, Male,40,<=50K
+42, Self-emp-not-inc, Prof-school, Prof-specialty, White, Male,50,>50K
+25, Private, Some-college, Tech-support, White, Male,40,<=50K
+49, Private, Bachelors, Prof-specialty, White, Female,45,<=50K
+32, Private, Bachelors, Tech-support, White, Male,40,<=50K
+19, Private, Some-college, Adm-clerical, White, Male,28,<=50K
+60, Private,7th-8th, Other-service, White, Female,40,<=50K
+42, Local-gov,9th, Other-service, White, Male,40,<=50K
+35, Self-emp-not-inc, Assoc-acdm, Farming-fishing, White, Male,40,<=50K
+48, Private, HS-grad, Adm-clerical, Black, Female,37,<=50K
+51, Private, Masters, Craft-repair, White, Male,40,>50K
+29, Private, HS-grad, Craft-repair, Amer-Indian-Eskimo, Male,40,<=50K
+36, Local-gov, HS-grad, Exec-managerial, Black, Male,40,<=50K
+17, Private,10th, Other-service, White, Female,21,<=50K
+52, Private, Masters, Prof-specialty, White, Female,60,<=50K
+24, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+24, Private, HS-grad, Handlers-cleaners, White, Male,50,<=50K
+26, Local-gov, Bachelors, Prof-specialty, White, Male,40,<=50K
+27, Private, Bachelors, Other-service, White, Female,20,<=50K
+39, Private, HS-grad, Handlers-cleaners, White, Male,60,<=50K
+30, Private, HS-grad, Transport-moving, Black, Male,45,<=50K
+50, Self-emp-not-inc, HS-grad, Exec-managerial, White, Male,32,<=50K
+52, Self-emp-inc, Bachelors, Sales, White, Male,55,<=50K
+46, Private, Prof-school, Prof-specialty, White, Male,45,>50K
+23, Private, Bachelors, Sales, White, Female,20,<=50K
+45, Private,11th, Other-service, Black, Female,20,<=50K
+65, Private,9th, Priv-house-serv, Black, Female,24,<=50K
+29, Private, Assoc-voc, Transport-moving, White, Male,55,<=50K
+47, Private,9th, Handlers-cleaners, White, Male,40,<=50K
+30, Private, HS-grad, Farming-fishing, Black, Male,60,<=50K
+34, Private, HS-grad, Sales, White, Male,45,>50K
+38, Self-emp-not-inc, HS-grad, Sales, White, Male,64,<=50K
+33, Private, Some-college, Exec-managerial, White, Male,40,>50K
+49, Private, Bachelors, Sales, White, Male,26,>50K
+47, Self-emp-not-inc, Some-college, Other-service, Black, Female,40,<=50K
+49, Local-gov,10th, Other-service, Black, Female,40,<=50K
+43, Private, Some-college, Craft-repair, White, Male,60,>50K
+30, Private, Bachelors, Adm-clerical, Black, Female,40,>50K
+58, Self-emp-not-inc, HS-grad, Craft-repair, White, Male,60,<=50K
+19, Private, HS-grad, Other-service, White, Female,14,<=50K
+21, Private, Bachelors, Handlers-cleaners, White, Male,40,<=50K
+33, Private, Bachelors, Exec-managerial, White, Male,60,>50K
+47, Self-emp-inc,5th-6th, Transport-moving, White, Male,50,<=50K
+52, Self-emp-not-inc, Doctorate, Prof-specialty, White, Male,60,>50K
+26, Private, HS-grad, Craft-repair, White, Male,55,<=50K
+60, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+21, Private, Some-college, Handlers-cleaners, White, Male,40,<=50K
+36, Private, Some-college, Sales, White, Male,50,>50K
+31, Private, Some-college, Craft-repair, White, Male,45,<=50K
+50, Self-emp-inc, Doctorate, Prof-specialty, White, Male,40,>50K
+31, Local-gov, HS-grad, Adm-clerical, White, Female,40,<=50K
+71, Private, HS-grad, Craft-repair, White, Male,15,<=50K
+20, Private, Some-college, Other-service, White, Male,20,<=50K
+24, Private, HS-grad, Exec-managerial, White, Male,50,<=50K
+35, Private, Doctorate, Prof-specialty, Asian-Pac-Islander, Male,40,>50K
+38, State-gov, Some-college, Exec-managerial, White, Female,45,<=50K
+27, Private, HS-grad, Machine-op-inspct, White, Female,32,<=50K
+29, State-gov, Some-college, Adm-clerical, Asian-Pac-Islander, Female,40,<=50K
+34, Private, HS-grad, Craft-repair, White, Male,45,<=50K
+44, Private,7th-8th, Craft-repair, White, Male,35,<=50K
+43, Private, HS-grad, Machine-op-inspct, White, Male,40,>50K
+44, Self-emp-not-inc,12th, Handlers-cleaners, Black, Male,40,>50K
+35, Private, Masters, Sales, White, Male,60,<=50K
+27, Private, Some-college, Prof-specialty, White, Male,40,<=50K
+43, Local-gov, Masters, Prof-specialty, White, Male,38,<=50K
+20, Private, Some-college, Sales, White, Female,25,<=50K
+42, Private, Assoc-acdm, Prof-specialty, White, Female,40,>50K
+27, State-gov, Some-college, Transport-moving, White, Male,40,<=50K
+42, Private, HS-grad, Craft-repair, Black, Male,40,>50K
+24, Private,9th, Machine-op-inspct, White, Male,40,<=50K
+48, Federal-gov, Some-college, Exec-managerial, White, Male,40,<=50K
+17, Self-emp-not-inc,11th, Farming-fishing, White, Male,10,<=50K
+33, Private, Bachelors, Exec-managerial, White, Male,40,>50K
+50, Self-emp-inc, HS-grad, Sales, White, Male,50,>50K
+22, Private, HS-grad, Sales, White, Female,40,<=50K
+17, Private,12th, Other-service, White, Male,16,<=50K
+32, Private, Some-college, Adm-clerical, White, Male,40,<=50K
+31, Private, HS-grad, Craft-repair, White, Male,45,<=50K
+58, Self-emp-not-inc, HS-grad, Exec-managerial, White, Male,50,<=50K
+29, Local-gov, HS-grad, Protective-serv, White, Male,48,<=50K
+37, Private, Assoc-voc, Craft-repair, White, Male,40,>50K
+34, Self-emp-not-inc, HS-grad, Craft-repair, White, Male,40,>50K
+23, Local-gov, Some-college, Exec-managerial, Black, Male,40,<=50K
+18, State-gov,11th, Adm-clerical, White, Female,5,<=50K
+34, Private, HS-grad, Exec-managerial, White, Female,40,<=50K
+45, Local-gov, Bachelors, Prof-specialty, White, Female,55,<=50K
+41, Private, Masters, Exec-managerial, White, Male,35,<=50K
+26, Private, HS-grad, Other-service, White, Male,30,<=50K
+54, Local-gov, Some-college, Farming-fishing, White, Male,40,<=50K
+24, Private, Some-college, Machine-op-inspct, Black, Female,45,<=50K
+42, Private, Some-college, Prof-specialty, White, Male,50,<=50K
+20, Private, Some-college, Prof-specialty, White, Male,20,<=50K
+23, State-gov, Bachelors, Tech-support, White, Female,20,<=50K
+35, Private, Masters, Prof-specialty, White, Male,60,>50K
+31, Private, Masters, Tech-support, White, Male,40,>50K
+30, Private, Bachelors, Prof-specialty, White, Female,40,<=50K
+19, Private, HS-grad, Sales, White, Female,20,<=50K
+36, Local-gov, Bachelors, Prof-specialty, White, Male,50,<=50K
+31, Private, Bachelors, Sales, White, Female,40,<=50K
+21, Private, Some-college, Handlers-cleaners, White, Male,30,<=50K
+31, Self-emp-not-inc, Some-college, Craft-repair, White, Male,40,<=50K
+46, Private, Doctorate, Prof-specialty, White, Female,65,>50K
+44, Private, Bachelors, Exec-managerial, White, Female,50,>50K
+40, Private,12th, Other-service, Black, Male,40,<=50K
+45, Private, Some-college, Sales, Black, Male,40,<=50K
+60, Private, HS-grad, Craft-repair, White, Male,35,<=50K
+18, Private,11th, Other-service, White, Male,25,<=50K
+28, Private, Bachelors, Prof-specialty, White, Male,40,<=50K
+36, Private, Some-college, Adm-clerical, Black, Female,40,<=50K
+36, Private, Bachelors, Prof-specialty, White, Male,40,<=50K
+40, Private, Assoc-voc, Tech-support, White, Male,40,<=50K
+36, Local-gov, Bachelors, Adm-clerical, White, Female,35,<=50K
+31, Private, HS-grad, Other-service, Black, Female,40,<=50K
+33, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+19, State-gov, HS-grad, Tech-support, White, Female,40,<=50K
+22, Private, Some-college, Sales, White, Female,15,<=50K
+34, Private, Bachelors, Exec-managerial, White, Male,45,>50K
+33, Private, HS-grad, Other-service, White, Male,40,<=50K
+41, Private, HS-grad, Craft-repair, White, Male,60,<=50K
+29, Private, Bachelors, Prof-specialty, White, Male,40,<=50K
+50, Local-gov, HS-grad, Exec-managerial, White, Male,42,>50K
+42, Private, Bachelors, Exec-managerial, White, Male,45,>50K
+43, Private, Bachelors, Prof-specialty, White, Male,40,>50K
+44, Private, HS-grad, Sales, White, Female,40,<=50K
+20, Private, Some-college, Other-service, White, Female,20,<=50K
+31, Private, HS-grad, Other-service, White, Male,40,<=50K
+65, Self-emp-not-inc,11th, Exec-managerial, White, Male,59,>50K
+23, Private, Some-college, Other-service, White, Female,24,<=50K
+55, Private, Some-college, Adm-clerical, Asian-Pac-Islander, Female,40,<=50K
+26, Private, Assoc-voc, Adm-clerical, White, Male,45,<=50K
+25, Private, Assoc-voc, Other-service, White, Female,15,<=50K
+35, Private, Some-college, Craft-repair, White, Male,40,<=50K
+36, Private, Some-college, Sales, Black, Female,36,<=50K
+43, State-gov, Bachelors, Prof-specialty, White, Male,50,<=50K
+56, Private, HS-grad, Other-service, Black, Female,20,<=50K
+42, Private, Bachelors, Tech-support, White, Male,40,>50K
+19, Private, Some-college, Other-service, White, Female,25,<=50K
+55, Self-emp-not-inc, HS-grad, Transport-moving, White, Male,72,<=50K
+42, Private, Masters, Exec-managerial, White, Female,50,>50K
+26, Private, Assoc-voc, Tech-support, White, Male,40,<=50K
+17, Private,12th, Handlers-cleaners, White, Male,20,<=50K
+42, Local-gov, Bachelors, Prof-specialty, White, Female,40,>50K
+55, Private, HS-grad, Transport-moving, White, Male,40,>50K
+32, Private, Some-college, Adm-clerical, Black, Female,40,<=50K
+29, Private,11th, Craft-repair, Black, Male,40,<=50K
+46, State-gov, Bachelors, Prof-specialty, White, Male,37,<=50K
+29, State-gov, Bachelors, Exec-managerial, White, Male,40,>50K
+22, Private, Bachelors, Prof-specialty, White, Male,20,<=50K
+58, Self-emp-not-inc,10th, Craft-repair, White, Male,40,<=50K
+23, Private, HS-grad, Transport-moving, White, Male,50,<=50K
+39, Private, HS-grad, Handlers-cleaners, White, Male,40,<=50K
+27, Private, Assoc-voc, Craft-repair, White, Male,38,<=50K
+54, Private, HS-grad, Transport-moving, White, Male,40,>50K
+33, Local-gov, Bachelors, Prof-specialty, White, Female,45,<=50K
+46, Federal-gov, HS-grad, Adm-clerical, White, Female,40,>50K
+37, Private, HS-grad, Farming-fishing, Black, Male,40,<=50K
+36, Private, HS-grad, Other-service, White, Female,18,<=50K
+59, Local-gov, HS-grad, Adm-clerical, White, Female,38,>50K
+34, Local-gov, HS-grad, Protective-serv, White, Male,40,<=50K
+53, Self-emp-inc, Doctorate, Exec-managerial, White, Male,70,>50K
+51, Private, Bachelors, Sales, White, Male,55,>50K
+32, Private,10th, Other-service, White, Female,42,<=50K
+31, State-gov, Some-college, Other-service, White, Male,40,<=50K
+22, Private, Some-college, Sales, White, Female,30,<=50K
+47, Self-emp-not-inc, Bachelors, Sales, White, Female,50,<=50K
+32, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+26, Private, Some-college, Farming-fishing, White, Female,38,<=50K
+37, Private,5th-6th, Farming-fishing, White, Male,32,<=50K
+31, Private, HS-grad, Craft-repair, White, Male,55,<=50K
+37, Private, Assoc-voc, Tech-support, White, Female,24,>50K
+55, Private, HS-grad, Sales, White, Male,38,<=50K
+23, Local-gov, Assoc-voc, Tech-support, White, Male,56,<=50K
+36, Private, Some-college, Adm-clerical, White, Female,40,<=50K
+34, Private, Masters, Prof-specialty, White, Male,40,<=50K
+43, Private, Bachelors, Sales, White, Male,50,>50K
+54, Private, Some-college, Tech-support, White, Male,40,<=50K
+43, State-gov, Some-college, Craft-repair, White, Male,40,<=50K
+28, Private, Assoc-voc, Machine-op-inspct, White, Female,42,<=50K
+40, Private, Assoc-voc, Exec-managerial, White, Male,50,>50K
+41, Self-emp-not-inc, Some-college, Exec-managerial, White, Male,60,<=50K
+40, Private, Bachelors, Sales, Other, Female,55,>50K
+42, Private, Some-college, Adm-clerical, Black, Female,38,<=50K
+61, Self-emp-not-inc, HS-grad, Farming-fishing, White, Male,50,<=50K
+18, Private,12th, Machine-op-inspct, White, Male,30,<=50K
+48, Private, Assoc-voc, Tech-support, White, Male,50,>50K
+41, Self-emp-inc, Bachelors, Tech-support, White, Male,40,<=50K
+23, Private, HS-grad, Sales, White, Female,40,<=50K
+60, Private, HS-grad, Transport-moving, White, Male,60,>50K
+22, Private, Some-college, Other-service, Black, Male,20,<=50K
+61, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+25, Private, HS-grad, Machine-op-inspct, Black, Male,40,<=50K
+46, Private, Masters, Tech-support, White, Male,35,>50K
+43, Private, Bachelors, Exec-managerial, White, Male,40,>50K
+43, Private, Assoc-acdm, Craft-repair, White, Male,40,<=50K
+24, Private, HS-grad, Other-service, Black, Male,30,<=50K
+68, Self-emp-not-inc,11th, Farming-fishing, White, Male,20,<=50K
+31, Private, HS-grad, Adm-clerical, White, Female,38,<=50K
+17, Private,11th, Sales, White, Female,20,<=50K
+32, Private, HS-grad, Craft-repair, White, Male,48,>50K
+33, Private, Bachelors, Prof-specialty, White, Male,47,>50K
+64, Private, Bachelors, Prof-specialty, White, Male,40,>50K
+20, Private, HS-grad, Transport-moving, White, Male,30,<=50K
+30, Private, HS-grad, Other-service, White, Female,36,<=50K
+43, Private, Some-college, Exec-managerial, White, Male,45,<=50K
+22, Private, Some-college, Adm-clerical, White, Male,40,<=50K
+17, Private,10th, Farming-fishing, White, Male,20,<=50K
+47, Self-emp-not-inc, HS-grad, Other-service, White, Female,75,<=50K
+41, Private, Assoc-voc, Prof-specialty, White, Female,60,<=50K
+56, Private, Some-college, Craft-repair, White, Male,50,>50K
+64, Private, HS-grad, Transport-moving, White, Male,45,<=50K
+47, Private, HS-grad, Transport-moving, White, Male,50,>50K
+48, Private, Assoc-voc, Adm-clerical, White, Male,40,<=50K
+31, Private, Masters, Prof-specialty, White, Female,46,<=50K
+29, Private, Assoc-voc, Tech-support, White, Male,40,<=50K
+30, Private, HS-grad, Adm-clerical, White, Female,40,<=50K
+32, Private, HS-grad, Exec-managerial, White, Male,60,<=50K
+57, Private, HS-grad, Transport-moving, White, Male,42,>50K
+62, Private, HS-grad, Other-service, White, Female,40,<=50K
+39, Private, HS-grad, Machine-op-inspct, White, Female,24,<=50K
+43, Private, Some-college, Adm-clerical, White, Male,25,<=50K
+24, Self-emp-inc, Bachelors, Sales, White, Male,40,<=50K
+53, Private, Some-college, Adm-clerical, White, Female,40,>50K
+26, Private, Some-college, Handlers-cleaners, White, Male,40,<=50K
+73, Self-emp-not-inc, HS-grad, Exec-managerial, White, Male,40,<=50K
+55, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+25, Private, HS-grad, Adm-clerical, White, Male,40,<=50K
+41, Private, Bachelors, Prof-specialty, White, Female,50,>50K
+24, Private, Bachelors, Exec-managerial, White, Male,50,<=50K
+63, Private, HS-grad, Farming-fishing, White, Male,6,<=50K
+17, Private,11th, Sales, White, Male,20,<=50K
+35, Private, Some-college, Craft-repair, White, Male,50,<=50K
+51, Private, Some-college, Prof-specialty, White, Male,40,>50K
+62, Local-gov, Bachelors, Prof-specialty, White, Female,48,<=50K
+55, Private, HS-grad, Craft-repair, White, Male,40,>50K
+43, Private, Some-college, Prof-specialty, White, Male,40,<=50K
+40, Local-gov, HS-grad, Other-service, White, Female,50,<=50K
+37, Private, Bachelors, Exec-managerial, White, Male,45,>50K
+39, Private, Bachelors, Craft-repair, White, Male,40,<=50K
+31, Private, HS-grad, Craft-repair, White, Male,18,<=50K
+61, Private, Masters, Prof-specialty, White, Female,40,>50K
+26, Private, Assoc-voc, Adm-clerical, White, Female,55,<=50K
+46, Self-emp-not-inc, HS-grad, Sales, White, Male,50,<=50K
+26, Private, Bachelors, Prof-specialty, White, Female,40,<=50K
+48, State-gov, Doctorate, Prof-specialty, White, Male,50,>50K
+34, Private, HS-grad, Transport-moving, White, Male,40,<=50K
+34, Local-gov, HS-grad, Adm-clerical, White, Female,40,<=50K
+59, Private, HS-grad, Other-service, White, Male,40,>50K
+34, Private, Bachelors, Prof-specialty, White, Female,40,<=50K
+49, Private, Bachelors, Exec-managerial, White, Female,56,>50K
+18, Private,11th, Adm-clerical, White, Female,20,<=50K
+43, Private, HS-grad, Farming-fishing, White, Male,40,<=50K
+48, Private,11th, Exec-managerial, White, Male,50,<=50K
+28, Self-emp-inc, Some-college, Exec-managerial, White, Male,70,<=50K
+33, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+24, Private, Some-college, Sales, White, Female,15,<=50K
+21, Private,10th, Handlers-cleaners, White, Male,40,<=50K
+17, Private,11th, Sales, White, Male,28,<=50K
+39, Private, Some-college, Farming-fishing, White, Male,50,>50K
+29, Self-emp-not-inc, Bachelors, Prof-specialty, White, Male,40,<=50K
+44, Private, Bachelors, Exec-managerial, White, Male,40,>50K
+24, Private, Some-college, Transport-moving, White, Male,50,<=50K
+71, Self-emp-not-inc, Masters, Sales, White, Male,40,>50K
+51, Self-emp-not-inc, Bachelors, Sales, Asian-Pac-Islander, Male,40,>50K
+55, Private,5th-6th, Other-service, Black, Male,25,<=50K
+41, Private, Bachelors, Exec-managerial, White, Male,60,>50K
+23, Private, HS-grad, Handlers-cleaners, Black, Female,7,<=50K
+38, Private, Assoc-voc, Adm-clerical, White, Female,40,<=50K
+39, Private, HS-grad, Transport-moving, White, Male,40,>50K
+19, Private, HS-grad, Adm-clerical, White, Female,30,<=50K
+49, Private,9th, Machine-op-inspct, White, Female,40,<=50K
+32, Private, Bachelors, Adm-clerical, White, Male,40,>50K
+27, Private, HS-grad, Craft-repair, White, Male,70,<=50K
+38, Private, Bachelors, Sales, White, Male,50,>50K
+33, Private, Some-college, Craft-repair, White, Female,60,<=50K
+23, Private, Bachelors, Exec-managerial, White, Male,28,<=50K
+33, Self-emp-inc, Some-college, Craft-repair, White, Male,60,<=50K
+54, Self-emp-not-inc, HS-grad, Sales, Black, Male,40,<=50K
+29, Private, Assoc-voc, Tech-support, White, Female,45,<=50K
+35, Self-emp-not-inc, Bachelors, Exec-managerial, White, Male,40,<=50K
+28, Private, Assoc-voc, Adm-clerical, Asian-Pac-Islander, Female,40,<=50K
+37, Private, Bachelors, Prof-specialty, White, Male,50,>50K
+42, Self-emp-not-inc, Prof-school, Farming-fishing, White, Male,65,>50K
+40, Private, Masters, Prof-specialty, White, Male,40,<=50K
+47, Private, Some-college, Sales, White, Male,55,<=50K
+22, Private, Bachelors, Exec-managerial, White, Female,50,<=50K
+30, Private, Bachelors, Exec-managerial, White, Male,45,>50K
+28, Private, HS-grad, Tech-support, White, Male,40,<=50K
+63, Local-gov,7th-8th, Other-service, White, Male,55,<=50K
+51, Self-emp-not-inc,9th, Craft-repair, White, Male,20,<=50K
+22, Private, HS-grad, Handlers-cleaners, White, Female,40,<=50K
+35, Private, HS-grad, Sales, White, Male,45,<=50K
+46, Private, HS-grad, Machine-op-inspct, White, Female,38,<=50K
+37, Private, Some-college, Machine-op-inspct, White, Male,52,<=50K
+24, Private, Bachelors, Prof-specialty, Black, Male,15,<=50K
+37, Self-emp-not-inc, HS-grad, Handlers-cleaners, White, Male,10,<=50K
+53, Private, Some-college, Tech-support, White, Male,40,<=50K
+27, Private, HS-grad, Sales, White, Male,30,<=50K
+38, Private, Some-college, Craft-repair, White, Male,44,<=50K
+53, Self-emp-not-inc,10th, Farming-fishing, White, Male,60,<=50K
+34, Private, Some-college, Craft-repair, White, Male,40,<=50K
+23, Private, HS-grad, Sales, Black, Male,40,<=50K
+39, Private, Bachelors, Exec-managerial, White, Male,45,>50K
+43, Private, Masters, Prof-specialty, Asian-Pac-Islander, Female,50,<=50K
+67, Self-emp-inc, HS-grad, Exec-managerial, Asian-Pac-Islander, Male,40,>50K
+81, Self-emp-not-inc, HS-grad, Exec-managerial, White, Male,30,<=50K
+21, Private, Some-college, Other-service, White, Male,20,<=50K
+23, Private, Some-college, Sales, White, Male,25,<=50K
+25, Private, Some-college, Transport-moving, White, Male,40,<=50K
+42, Private,5th-6th, Machine-op-inspct, White, Female,38,<=50K
+38, Private, Some-college, Adm-clerical, Black, Female,40,<=50K
+32, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+37, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+51, Private, Masters, Exec-managerial, White, Male,60,>50K
+22, Private, Some-college, Sales, White, Female,42,<=50K
+33, Private,1st-4th, Priv-house-serv, White, Female,40,<=50K
+42, Private, HS-grad, Machine-op-inspct, White, Male,55,<=50K
+51, Local-gov, Preschool, Other-service, White, Male,40,<=50K
+23, Private, HS-grad, Adm-clerical, White, Female,40,<=50K
+37, Private,11th, Machine-op-inspct, White, Male,44,>50K
+37, Private, HS-grad, Craft-repair, White, Male,99,>50K
+47, Private, Masters, Prof-specialty, White, Female,25,<=50K
+41, Private, Prof-school, Prof-specialty, White, Male,40,>50K
+33, Private, HS-grad, Craft-repair, White, Male,30,<=50K
+31, Private, Bachelors, Sales, White, Male,40,>50K
+31, Private, Assoc-acdm, Other-service, Amer-Indian-Eskimo, Female,40,<=50K
+35, Private, HS-grad, Machine-op-inspct, Black, Male,40,<=50K
+38, Self-emp-inc, HS-grad, Exec-managerial, White, Male,40,>50K
+18, Private, HS-grad, Other-service, White, Female,45,<=50K
+20, Private, HS-grad, Machine-op-inspct, White, Male,40,<=50K
+54, Local-gov, Some-college, Exec-managerial, Black, Female,35,<=50K
+40, Private, Some-college, Adm-clerical, White, Female,40,<=50K
+36, Self-emp-inc, Bachelors, Exec-managerial, White, Female,45,>50K
+43, Private, Some-college, Craft-repair, White, Male,35,<=50K
+44, Self-emp-not-inc, Some-college, Farming-fishing, White, Male,40,<=50K
+44, State-gov, HS-grad, Prof-specialty, White, Female,40,>50K
+43, Private, Masters, Exec-managerial, White, Male,43,>50K
+51, Private,7th-8th, Other-service, Black, Female,40,<=50K
+18, Private, HS-grad, Other-service, White, Female,20,<=50K
+51, Private, Some-college, Exec-managerial, White, Male,40,<=50K
+41, Private,10th, Craft-repair, White, Male,30,<=50K
+44, Self-emp-inc, Some-college, Sales, White, Male,70,>50K
+33, Local-gov,10th, Transport-moving, White, Male,40,<=50K
+33, Self-emp-not-inc, Bachelors, Exec-managerial, White, Male,40,>50K
+42, Private, Assoc-acdm, Exec-managerial, White, Male,40,>50K
+25, Private, Some-college, Prof-specialty, White, Male,45,<=50K
+32, Private, HS-grad, Machine-op-inspct, White, Female,38,<=50K
+32, Private, Bachelors, Craft-repair, White, Male,70,<=50K
+36, Private,10th, Exec-managerial, White, Female,40,<=50K
+28, Private, HS-grad, Transport-moving, White, Male,40,<=50K
+20, Private, HS-grad, Other-service, White, Female,20,<=50K
+35, Self-emp-inc, Some-college, Sales, White, Male,60,>50K
+55, Self-emp-not-inc, HS-grad, Craft-repair, White, Male,20,<=50K
+48, Private, Bachelors, Exec-managerial, Asian-Pac-Islander, Male,40,>50K
+34, Private, HS-grad, Craft-repair, White, Male,35,>50K
+28, Private, Bachelors, Tech-support, White, Female,35,<=50K
+67, Private, Bachelors, Exec-managerial, White, Male,40,>50K
+37, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+44, Private, HS-grad, Transport-moving, White, Male,70,<=50K
+25, Private, Some-college, Sales, White, Female,40,<=50K
+21, Private, Some-college, Exec-managerial, White, Female,40,<=50K
+40, State-gov, Masters, Prof-specialty, White, Male,35,>50K
+78, Private, HS-grad, Other-service, Black, Female,40,<=50K
+34, Private, HS-grad, Handlers-cleaners, White, Male,40,<=50K
+49, Private, HS-grad, Adm-clerical, White, Female,44,<=50K
+22, Private, Assoc-acdm, Adm-clerical, White, Female,40,<=50K
+60, Self-emp-not-inc, HS-grad, Farming-fishing, White, Male,42,<=50K
+45, Local-gov, HS-grad, Protective-serv, White, Male,40,>50K
+63, Private, Assoc-voc, Other-service, White, Female,20,<=50K
+41, Private, HS-grad, Craft-repair, Black, Female,35,<=50K
+47, Private, HS-grad, Adm-clerical, White, Female,40,<=50K
+44, Private, HS-grad, Craft-repair, White, Male,40,<=50K
+51, Private, Some-college, Prof-specialty, White, Female,40,<=50K
+46, Private, Bachelors, Sales, White, Male,40,<=50K
+41, Private, Assoc-voc, Machine-op-inspct, White, Male,40,<=50K
+50, Self-emp-not-inc, HS-grad, Craft-repair, White, Male,30,<=50K
+47, Private, HS-grad, Adm-clerical, White, Male,50,>50K
+35, Private, HS-grad, Exec-managerial, White, Male,45,<=50K
+56, Private, HS-grad, Exec-managerial, White, Male,55,>50K
+45, Private, Masters, Prof-specialty, White, Male,45,<=50K
+48, Federal-gov, Bachelors, Exec-managerial, White, Male,58,>50K
+40, Private, Some-college, Machine-op-inspct, White, Male,40,<=50K
+39, Self-emp-inc, Bachelors, Exec-managerial, White, Male,50,>50K
+20, Private, Some-college, Other-service, White, Male,40,<=50K
+50, Private, Doctorate, Prof-specialty, White, Male,65,>50K
+38, State-gov, HS-grad, Prof-specialty, White, Female,40,>50K
+23, Local-gov, Bachelors, Prof-specialty, White, Female,60,<=50K
+31, Private, HS-grad, Other-service, White, Male,16,<=50K
+58, Private, Bachelors, Adm-clerical, White, Male,40,<=50K
