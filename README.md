@@ -1,4 +1,6 @@
 # ML-mini-projects
+Repository for experiments with technologies in ML. Well documented for those who want a place to begin or examples for reference. 
+
 ## Contents
 |Directory|Description |
 |----|-----------|
